@@ -9,3 +9,4 @@ apscheduler==3.10.4
 streamlit==1.36.0
 pydantic==2.8.2
 matplotlib==3.9.2
+plotly==5.22.0
