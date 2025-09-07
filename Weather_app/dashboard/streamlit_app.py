@@ -19,7 +19,7 @@ API_KEY = os.getenv("OPENWEATHER_API_KEY")
 
 # Setup
 st.set_page_config(page_title="Väderdashboard", page_icon="☀️", layout="wide")
-engine = create_engine('sqlite:///db.sqlite', echo=False, future=True)
+engine = create_engine('sqlite:///db.sqlite', echo=False)
 init_db()  # skapar tabeller om de saknas
 
 st.markdown("""
