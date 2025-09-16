@@ -29,7 +29,15 @@ Byggd för att visa upp min kompetens inom **Python, API-integration, datavisual
 
 ## 📊 Exempel på UI
 
-![Dashboard exempel](docs/dashboard_example.png)
+### Malmö
+![Malmö dashboard](docs/malmo.png)
+
+### Göteborg
+![Göteborg dashboard](docs/goteborg.png)
+
+### Stockholm
+![Stockholm dashboard](docs/stockholm.png)
+
 
 ---
 

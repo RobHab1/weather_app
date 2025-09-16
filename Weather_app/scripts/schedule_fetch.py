@@ -4,6 +4,7 @@ from Weather_app.app.db import SessionLocal, init_db
 from Weather_app.app.fetcher import fetch_forecast, store_forecast
 
 
+
 CITY = os.getenv("DEFAULT_CITY", "Stockholm")
 
 def fetch_job():
